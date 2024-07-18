@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pranandita-epog.jpg"
+  avatar           : "pranandita-square.jpg"
   name             : "Pranandita Biswas"
   pronouns         : # example: "she/her"  
   bio              : "Physicist turned economist. Interested in all things data and policy."
