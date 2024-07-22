@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an economist and social scientist passionate about shaping effective public policy in developing countries through in-depth data analysis. I hold a joint master degree in economic policy from Sorbonne Université and the Vienna University of Economics and Business, among others, funded by an Erasmus Mundus scholarship. My master thesis focused on identifying the root cause of inflation in Sri Lanka during the financial crisis of 2022 and implications for monetary policy. For this, I used time-series econometric tools to understand the roles of macroeconomic variables, particularly money supply and exchange rates, in driving inflation. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In future research, I want to bridge my knowledge of macro and monetary economics with microeconomics to design climate change-resilient policy for poverty and inequality reduction in South Asian countries. Methodologically, I am fascinated by data science and how data can answer questions about society. I am looking to expand my skills in econometrics and the programming languages R and Python by learning advanced machine-learning modeling, SQL and database manipulation, and big data tools. 
+
+I believe that good science requires a plurality of methodological approaches; I have complemented my quant skills with qualitative research. One of my current research projects studies land conflicts over wildlife conservation in India from a political ecology perspective using archival research. My training is also highly interdisciplinary—my previous education is in physics with a specialization in semiconductor technology. This gave me not only a strong quantitative grounding but also a uniquely analytical perspective on economics and social science. 
+
+In the past, my desire to go outside the confines of elite universities led me to work with an educational NGO in rural areas of India, and the lessons I learned there are as valuable as any technical skills. I continue to seek ways to work in the field, communicate research to lay audiences, and in other ways engage beyond the academic community. 
+
+
+
+  
+
+
+
 
