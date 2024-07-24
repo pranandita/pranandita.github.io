@@ -1,6 +1,6 @@
 ---
 title: "Econometric analysis of competing theories of inflation in Sri Lanka—Money supply or exchange rate?"
-# collection: publications
+collection: publications
 permalink: /publication/SriLanka_Inflation
 excerpt: ''
 date: 2024-05-31
