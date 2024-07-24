@@ -6,7 +6,7 @@ excerpt: 'Political economy investigation of conservation project'
 date: 2023-01-01
 venue: ''
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/Biswas_Karera_PolEcology.pdf'
+paperurl: 'http://pranandita.github.io/files/Biswas_Karera_PolEcology.pdf'
 citation: ''
 ---
 
