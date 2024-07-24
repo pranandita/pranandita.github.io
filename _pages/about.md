@@ -11,8 +11,7 @@ I am an economist and social scientist passionate about shaping data-driven publ
 
 In future research, I want to bridge my knowledge of macro and monetary economics with microeconomics for designing climate change-resilient policies for poverty and inequality reduction in South Asian countries. Methodologically, I am keen to expand my data science skills in econometrics to include SQL, big data tools, and machine-learning models. 
 
-Beyond quantitative research, I am studying the political ecology of wildlife conservation in India using qualitative methods, specifically archival research. My training is highly interdisciplinary—my previous education in physics gave me a uniquely analytical perspective on questions of social science. I have also worked for a nonprofit in rural India, and I continue to seek ways engage with communities beyond academia through fieldwork and science communication. 
-
+blabla
 
 
 
