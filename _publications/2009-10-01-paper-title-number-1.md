@@ -2,7 +2,7 @@
 title: "Science, politics, and wildlife policy: Exclusionary conservation in Karera, India"
 collection: publications
 permalink: /_publications/2009-10-01-paper-title-number-1.md
-excerpt: ''
+excerpt: 'Political economy investigation of conservation project'
 date: 2023
 venue: 
 slidesurl: 
