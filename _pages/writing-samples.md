@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+# permalink: /non-menu-page/
 title: "Writing samples"
 author_profile: true
 # redirect_from: 
