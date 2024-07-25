@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Writing samples"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
