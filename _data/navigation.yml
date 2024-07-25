@@ -7,7 +7,7 @@ main:
     url: /portfolio/
 
   - title: "Writing samples"
-    url: /publications/
+    url: /pages/non-menu-page.md
 
   - title: "Blog"
     url: /year-archive/
