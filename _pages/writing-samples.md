@@ -1,12 +1,12 @@
 ---
-permalink: /non-menu-page/
+permalink: /writing-samples/
 title: "Writing samples"
 author_profile: true
- redirect_from: 
-   - "/nmp/"
-   - "/nmp.html"
+ # redirect_from: 
+   # - "/nmp/"
+   # - "/nmp.html"
 ---
 
 
 
-### Writing sample 1
+
