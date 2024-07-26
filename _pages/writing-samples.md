@@ -1,10 +1,8 @@
 ---
-permalink: /writing-samples/
+layout: archive
 title: "Writing samples"
+permalink: /writing-samples/
 author_profile: true
- # redirect_from: 
-   # - "/nmp/"
-   # - "/nmp.html"
 ---
 
 
