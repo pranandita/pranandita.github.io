@@ -1,0 +1,12 @@
+---
+title: "Towards an empirically informed agent-based model for collective groundwater management"
+excerpt: "<p><i>2023</i></p> 
+<p>Can community-based collective resource management provide a viable alternative to privatization or centralized government control of scarce resources? Building upon decades of complexity theory-informed resource on common-pool resource management and the results of a behavioural study, this paper proposes a preliminary agent-based model for the case of groundwater management in South India. The proposed model can be developed for applications in policy research and as an interactive role-playing game for aiding future behavioural studies.</p>"
+# collection: publications
+
+---
+<p><i>2023</i></p>
+
+<p><a href="\files\Biswas_CommonPool_ABM">Download paper</a> </p>
+
+<p>Collective groundwater management is a challenging case of the common-pool (CPR) management problem. Since the 1970s, empirical studies have disproved the notion that the ‘tragedy of the commons’ is the inevitable fate of any CPR. Complex systems theory, which rejects the rational economic actor-based ontology of neoclassical economics, has been employed widely to explain the emergence of cooperation in CPR research. Agent-based modelling (ABM) is a powerful computational tool to study the emergent dynamics of complex systems; however, combining empirical data with ABM in economics is challenging. In this study, I employ ABM to develop a preliminary model for collective groundwater management in southern India based on empirical behavioural data. I briefly present the results of the model and propose avenues for further model development. The proposed model can find applications in policy research and as an interactive role-playing game for aiding future behavioural studies.</p>
