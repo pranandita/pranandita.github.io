@@ -9,8 +9,8 @@ main:
   - title: "Writing samples"
     url: /publications/
 
-  - title: "Blog"
-    url: /year-archive/
+#  - title: "Blog"
+#    url: /year-archive/
  
 #  - title: "Talks"
 #    url: /talks/    
