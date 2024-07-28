@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pranandita's website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pranandita Biswas"
 description              : &description "personal description"
